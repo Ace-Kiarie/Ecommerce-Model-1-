@@ -1,0 +1,68 @@
+{
+    "items": [
+      {
+        "sys": { "id": "1" },
+        "fields": {
+          "title": "ACSR GREASED 50MM2",
+          "price": 0.543,
+          "image": { "fields": { "file": { "url": "./images/product-1.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "2" },
+        "fields": {
+          "title": "LV STAY WIRE (7/2.64)",
+          "price":  0.448,
+          "image": { "fields": { "file": { "url": "./images/product-2.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "3" },
+        "fields": {
+          "title": "MV STAY WIRE (7/4)",
+          "price": 1.00,
+          "image": { "fields": { "file": { "url": "./images/product-3.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "4" },
+        "fields": {
+          "title": "CONDUCTOR SPLICE JOINT",
+          "price":  2.750,
+          "image": { "fields": { "file": { "url": "./images/product-4.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "5" },
+        "fields": {
+          "title": "TENSION PLATE TYPE",
+          "price": 4.125 ,
+          "image": { "fields": { "file": { "url": "./images/product-5.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "6" },
+        "fields": {
+          "title": "U- BOLT,WASHERS AND NUTS FOR CROSS ARM",
+          "price": 6.875,
+          "image": { "fields": { "file": { "url": "./images/product-6.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "7" },
+        "fields": {
+          "title": "D-IRON WITH BOLT",
+          "price": 1.403,
+          "image": { "fields": { "file": { "url": "./images/product-7.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "8" },
+        "fields": {
+          "title": "REEL INSULATOR-(shackle)",
+          "price": 2.063,
+          "image": { "fields": { "file": { "url": "./images/product-8.jpeg" } } }
+        }
+      }
+    ]
+  }
