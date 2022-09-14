@@ -1,0 +1,335 @@
+{
+    "items": [
+      {
+        "sys": { "id": "1" },
+        "fields": {
+          "title": "ACSR GREASED 50MM2",
+          "price": 0.543,
+          "image": { "fields": { "file": { "url": "./images/product-1.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "2" },
+        "fields": {
+          "title": "LV STAY WIRE (7/2.64)",
+          "price":  0.448,
+          "image": { "fields": { "file": { "url": "./images/product-2.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "3" },
+        "fields": {
+          "title": "MV STAY WIRE (7/4)",
+          "price": 1.00,
+          "image": { "fields": { "file": { "url": "./images/product-3.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "4" },
+        "fields": {
+          "title": "CONDUCTOR SPLICE JOINT",
+          "price":  2.750,
+          "image": { "fields": { "file": { "url": "./images/product-4.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "5" },
+        "fields": {
+          "title": "TENSION PLATE TYPE",
+          "price": 4.125 ,
+          "image": { "fields": { "file": { "url": "./images/product-5.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "6" },
+        "fields": {
+          "title": "U- BOLT,WASHERS AND NUTS FOR CROSS ARM",
+          "price": 6.875,
+          "image": { "fields": { "file": { "url": "./images/product-6.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "7" },
+        "fields": {
+          "title": "D-IRON WITH BOLT",
+          "price": 1.403,
+          "image": { "fields": { "file": { "url": "./images/product-7.jpeg" } } }
+        }
+      },
+
+      {
+        "sys": { "id": "8" },
+        "fields": {
+          "title": "REEL INSULATOR-(shackle)",
+          "price": 2.063,
+          "image": { "fields": { "file": { "url": "./images/product-8.jpeg" } } }
+        }
+      },
+
+      {
+        "sys": { "id": "9" },
+        "fields": {
+          "title": "1200MM, 95KV, 20KN, POST INSULATOR",
+          "price": 33.550,
+          "image": { "fields": { "file": { "url": "./images/product-9.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "10" },
+        "fields": {
+          "title": "25 X 25MM STEEL PG CLAMP",
+          "price": 1.100,
+          "image": { "fields": { "file": { "url": "./images/product-10.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "11" },
+        "fields": {
+          "title": "M16 X 300MM BOLTS & NUTS",
+          "price": 1.238,
+          "image": { "fields": { "file": { "url": "./images/product-11.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "12" },
+        "fields": {
+          "title": "150X150MM IRON SHEET GAUGE 16 PHASE IDENTIFIER, 85 MICRON PRIMER",
+          "price": 2.750,
+          "image": { "fields": { "file": { "url": "./images/product-12.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "13" },
+        "fields": {
+          "title": "1200MM, 210KV, 70KN, STRAIN INSULATOR",
+          "price": 11.688,
+          "image": { "fields": { "file": { "url": "./images/product-13.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "14" },
+        "fields": {
+          "title": "M20 X 350MM EYE BOLTS & NUTS",
+          "price": 3.781,
+          "image": { "fields": { "file": { "url": "./images/product-14.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "15" },
+        "fields": {
+          "title": "SOCKET TONGUE",
+          "price": 1.375,
+          "image": { "fields": { "file": { "url": "./images/product-15.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "16" },
+        "fields": {
+          "title": "SUSPENSION CLAMP MV 10-18mm D",
+          "price":  6.188,
+          "image": { "fields": { "file": { "url": "./images/product-16.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "17" },
+        "fields": {
+          "title": "3 phase SURGE ARRESTORS 33KV",
+          "price": 125.263,
+          "image": { "fields": { "file": { "url": "./images/product-17.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "18" },
+        "fields": {
+          "title": "200*150*15 -6000MM CROSS ARM",
+          "price": 687.500,
+          "image": { "fields": { "file": { "url": "./images/product-18.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "19" },
+        "fields": {
+          "title": "3 PHASE, 33KV, DROP-OUT FUSE ISOLATORS",
+          "price": 41.063,
+          "image": { "fields": { "file": { "url": "./images/product-19.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "20" },
+        "fields": {
+          "title": "3 PHASE, 11KV, SURGE ARRESTORS",
+          "price":  125.263,
+          "image": { "fields": { "file": { "url": "./images/product-20.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "21" },
+        "fields": {
+          "title": "3000MM U CHANNEL(TRANSFORMER)",
+          "price": 93.225,
+          "image": { "fields": { "file": { "url": "./images/product-21.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "22" },
+        "fields": {
+          "title": "JUMPER CHANNEL",
+          "price": 3.438,
+          "image": { "fields": { "file": { "url": "./images/product-22.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "23" },
+        "fields": {
+          "title": "STEEL CONNECTING STRAPS(DOUBLE TERMINATING STRAPS )",
+          "price": 6.875,
+          "image": { "fields": { "file": { "url": "./images/product-23.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "24" },
+        "fields": {
+          "title": "MCCB BOXES",
+          "price":   41.250,
+          "image": { "fields": { "file": { "url": "./images/product-24.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "25" },
+        "fields": {
+          "title": "3 PHASE 11KV DROP-OUT FUSE ISOLATOR",
+          "price": 86.900,
+          "image": { "fields": { "file": { "url": "./images/product-25.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "26" },
+        "fields": {
+          "title": "M20 X 50MM BOLTS AND NUTS ",
+          "price":  1.089,
+          "image": { "fields": { "file": { "url": "./images/product-26.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "27" },
+        "fields": {
+          "title": "***U NAILS***",
+          "price": 0.00,
+          "image": { "fields": { "file": { "url": "./images/product-27.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "28" },
+        "fields": {
+          "title": "M20 X 300MM BOLTS AND NUTS",
+          "price":    1.089,
+          "image": { "fields": { "file": { "url": "./images/product-28.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "29" },
+        "fields": {
+          "title": "Copper CLAD EARTH RODS",
+          "price":  5.72,
+          "image": { "fields": { "file": { "url": "./images/product-29.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "30" },
+        "fields": {
+          "title": "MCCB 100A",
+          "price":  9.9,
+          "image": { "fields": { "file": { "url": "./images/product-30.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "31" },
+        "fields": {
+          "title": "THIMBLE EYE-GALVANIZED FOR EARTH WIRE",
+          "price": 0.55,
+          "image": { "fields": { "file": { "url": "./images/product-31.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "32" },
+        "fields": {
+          "title": "PREFORMED DEAD END FOR 3/2.64 GALVANIZED STEEL WIRE",
+          "price":    1.43,
+          "image": { "fields": { "file": { "url": "./images/product-32.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "33" },
+        "fields": {
+          "title": "M20 BALL HOOK",
+          "price":   1.76,
+          "image": { "fields": { "file": { "url": "./images/product-33.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "34" },
+        "fields": {
+          "title": "M14X300MM BOLTS/NUTS, LOW CARBON MILD STEEL",
+          "price":  0.825,
+          "image": { "fields": { "file": { "url": "./images/product-34.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "35" },
+        "fields": {
+          "title": "M12X20 BRASS BOLT FULL THREAD",
+          "price": 0.11,
+          "image": { "fields": { "file": { "url": "./images/product-35.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "36" },
+        "fields": {
+          "title": "***PIG TAIL HOOKS MV***",
+          "price":   0.000,
+          "image": { "fields": { "file": { "url": "./images/product-36.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "37" },
+        "fields": {
+          "title": "TOP CONDUCTOR FITTING",
+          "price":   2.42,
+          "image": { "fields": { "file": { "url": "./images/product-37.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "38" },
+        "fields": {
+          "title": "16SQ MM BI METALLIC LUGS",
+          "price":   0.264,
+          "image": { "fields": { "file": { "url": "./images/product-38.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "39" },
+        "fields": {
+          "title": "***25SQ MM ALUMINUM LUGS***",
+          "price": 0.000,
+          "image": { "fields": { "file": { "url": "./images/product-39.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "40" },
+        "fields": {
+          "title": "50 SQ MM BI METALLIC LUGS",
+          "price":    0.495,
+          "image": { "fields": { "file": { "url": "./images/product-40.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "41" },
+        "fields": {
+          "title": "MV OUTRIGGER ASSEMBLY",
+          "price":     19.8,
+          "image": { "fields": { "file": { "url": "./images/product-41.png" } } }
+        }
+      }
+
+    ]
+  }
